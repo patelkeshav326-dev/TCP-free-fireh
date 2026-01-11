@@ -2,3 +2,4 @@ pyTelegramBotAPI
 psutil
 Flask
 requests
+urllib3
